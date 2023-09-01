@@ -1,5 +1,7 @@
 # ML-PredictiveAnalysis-RRAM
-RRAM resistive switching behavior evaluation and prediction, based on fabrication conditions. Using Machine learning to predict the SET voltage distribution of Honey-Based RRAM device
+RRAM resistive switching behavior evaluation and prediction, based on fabrication conditions. Applied Machine learning\Deep learning models to predict SET voltage distribution in Honey-based RRAM devices. 
+
+
 
 ## Related Publication
 
