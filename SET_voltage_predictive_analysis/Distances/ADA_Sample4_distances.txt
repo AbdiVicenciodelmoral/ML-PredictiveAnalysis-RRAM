@@ -1,0 +1,2 @@
+Frechet distance ADA: 0.07233145611360478
+Wasserstein distance ADA: 0.03864019364852335

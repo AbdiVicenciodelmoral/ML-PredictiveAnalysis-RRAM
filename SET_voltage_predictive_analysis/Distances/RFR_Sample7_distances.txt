@@ -1,0 +1,2 @@
+Frechet distance RFR: 0.24791257198865688
+Wasserstein distance RFR: 0.0582464088345437

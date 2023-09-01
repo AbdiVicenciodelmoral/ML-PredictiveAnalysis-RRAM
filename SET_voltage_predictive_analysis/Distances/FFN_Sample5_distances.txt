@@ -1,0 +1,2 @@
+Frechet distance FFN: 0.04208650525493955
+Wasserstein distance FFN: 0.01238028185701932

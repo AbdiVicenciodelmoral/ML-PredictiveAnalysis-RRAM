@@ -1,0 +1,9 @@
+Sample,Baking temperature (°C),Baking time (hours),Resistive switching film,Bottom electrode material,Top electrode material
+Sample_A,140.0,2.0,0,0,2
+Sample_B,140.0,4.0,0,0,2
+Sample_C,90.0,8.0,0,0,2
+Sample_D,140.0,2.0,0,1,2
+Sample_E,140.0,4.0,0,1,2
+Sample_F,90.0,8.0,1,0,2
+Sample_G,140.0,2.0,1,1,2
+Sample_H,90.0,8.0,1,1,2
