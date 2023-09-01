@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Vicenciodelmoral"
+    given-names: "A. Y."
+  - family-names: "Tanim"
+    given-names: "M. M. H."
+  - family-names: "Zhao"
+    given-names: "F."
+  - family-names: "Zhao"
+    given-names: "X."
+title: "Supporting Green Neuromorphic Computing: Machine Learning Guided Microfabrication for Resistive Random Access Memory"
+version: 1.0.0
+doi: 10.1109/BDCAT56447.2022.00026
